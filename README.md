@@ -6,7 +6,7 @@ As an enthusiast for crafting the future of technology, I approach software engi
 ## 💻 Skills
 
 - **Programming Languages:** JavaScript, TypeScript, Java, Python, C#, C++
-- **Frameworks & Libraries:** Next.js, ASP.NET, MERN, React, Tailwind, Bootstrap
+- **Frameworks & Libraries:** Next.js, ASP.NET, MERN, React, Angular, Tailwind, Bootstrap
 - **Databases:** SQL, MongoDB, Neo4j
 - **Machine Learning:** PyTorch, Linear Regression
 - **Testing Frameworks:** Jest, Cypress
