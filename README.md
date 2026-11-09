@@ -1,73 +1,44 @@
-# 👋 Hi there, I'm Radwan 
-As an enthusiast for crafting the future of technology, I approach software engineering with a blend of analytical prowess and creative innovation. My journey is fueled by an unwavering commitment to excellence and a quest for the next breakthrough in technology.
-<br/> My goal? To build seamless, end-to-end experiences that push the boundaries of what's possible on the web.
+# Radwan Baba
 
+**AI Engineer** focused on healthcare. I build production GenAI systems that are grounded, reliable, and safe enough for clinical data.
 
-## 💻 Skills
+AI Engineer at [Infotech](https://www.infotech.com/) · M.S. Artificial Intelligence at Johns Hopkins · Montréal
 
-- **Programming Languages:** 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+### Focus
 
+- **Healthcare AI:** multi-agent clinical workflows, FHIR data pipelines, and grounded answers over patient records
+- **Agentic systems:** LangGraph and Google ADK orchestration
+- **RAG:** retrieval pipelines over enterprise and clinical documents
+- **LLM platforms:** MCP integrations, multi-model routing, and prompt management across OpenAI, Gemini, and Claude
 
-- **Frameworks & Libraries:** 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+### Stack
 
-- **Tools:** 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+**AI and LLMs**
 
-- **Databases:** 
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)](https://neo4j.com/)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-1C3C3C?style=for-the-badge&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1C3C3C?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-1C3C3C?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-1C3C3C?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1C3C3C?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-1C3C3C?style=for-the-badge&logo=qdrant&logoColor=white)
 
-- **Machine Learning:** 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+**Cloud and healthcare data**
 
-- **Testing Frameworks:** 
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-1C3C3C?style=for-the-badge)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1C3C3C?style=for-the-badge)
+![Cloud Healthcare API](https://img.shields.io/badge/Cloud_Healthcare_API-1C3C3C?style=for-the-badge&logo=googlecloud&logoColor=white)
+![FHIR R4](https://img.shields.io/badge/FHIR_R4-1C3C3C?style=for-the-badge)
 
+**Languages, frameworks and tools**
 
+<img src="https://skillicons.dev/icons?i=py,tensorflow,js,ts,react,nextjs,nodejs,ruby,rails,gcp,azure,aws,mysql,mongodb,docker,git,github&theme=dark&perline=9" alt="Python, TensorFlow, JavaScript, TypeScript, React, Next.js, Node.js, Ruby, Rails, Google Cloud, Azure, AWS, MySQL, MongoDB, Docker, Git, GitHub" />
 
-## 📫 Reach Out!
+### Writing
 
-Feel free to connect with me for any inquiries or collaborations. You can reach me at:
+- [Six Agents, One Patient Record: Lessons from a Google ADK Multi-Agent Healthcare Workflow](https://radwanbaba.com/articles)
+- [Engineering a Production-Grade RAG Pipeline with Gemini and Qdrant](https://radwanbaba.com/articles)
 
-- Email: [radwanGbaba@gmail.com](mailto:radwanGbaba@gmail.com)
+### Connect
 
-## 🌐 Socials
-
-[![GitHub Badge](https://img.shields.io/badge/Follow-RadwanBaba13-brightgreen?style=social&logo=github)](https://github.com/RadwanBaba13) <br/> 
-[![LinkedIn Badge](https://img.shields.io/badge/-RadwanBaba-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/RadwanBaba)](https://www.linkedin.com/in/radwan-baba-80543019a/) <br/> 
-[![Instagram Badge](https://img.shields.io/badge/-Radwan.Baba13-red?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/radwan.baba13)](https://instagram.com/radwan.baba13)
-
-<!--
-**Radwanbaba13/RadwanBaba13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/radwan-baba-80543019a/) · [radwanbaba.com](https://radwanbaba.com) · [Email](mailto:radwanGbaba@gmail.com)
